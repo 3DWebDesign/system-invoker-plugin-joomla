@@ -5,4 +5,4 @@ Latest version is here: https://github.com/web-seo/system-invoker-plugin-joomla/
 
 This plugin is used in FREE Mailorder for Joomla! content plugin - more info: http://3dwebdesign.org/forum/revised-mailorder-content-plugin-for-j2-5-t1762 
 
-Help us to make plugin better and to share it with Joomla community: plugin must be updated to work with Joomla 3.
+Help us to make plugin better and to share it with Joomla community: plugin must be updated to work with Joomla 3. Currently supported is only Joomla 2.5.
